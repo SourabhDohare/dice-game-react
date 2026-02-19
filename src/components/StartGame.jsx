@@ -1,9 +1,10 @@
 import styled from "styled-components";
+import Dices from "../assets/Dices.png";
 const StartGame = ({ toggle }) => {
   return (
     <Container>
       <div>
-        <img src="./src/assets/Dices.png" alt="" />
+        <img src={Dices} alt="Dice Illustration" />
       </div>
       <div className="content">
         <h1>Dice game</h1>
