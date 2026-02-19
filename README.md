@@ -1,7 +1,7 @@
 # 🎲 Dice Game - React + Vite
 
 ## Try The Game by clicking on the link below
-
+https://dice-game-react-xi.vercel.app/
 
 
 A simple interactive dice game built using React and Styled Components.
