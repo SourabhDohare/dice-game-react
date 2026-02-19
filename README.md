@@ -1,16 +1,53 @@
-# React + Vite
+# 🎲 Dice Game - React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Try The Game by clicking on the link below
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+A simple interactive dice game built using React and Styled Components.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Select a number
+- Roll the dice
+- Score tracking
+- Reset functionality
+- Rules toggle
+- Fully responsive design
 
-## Expanding the ESLint configuration
+## Tech Stack
+- React
+- Vite
+- Styled Components
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation
+npm install
+npm run dev
+
+
+## ScreenShots from the Dice Game Application
+
+## Landing Page
+
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/70f16faf-8ffa-4a1c-9912-c26b75d39e6c" />
+
+## Game Started
+
+<img width="1917" height="1009" alt="image" src="https://github.com/user-attachments/assets/159fb3f8-2ecd-4f5c-8f04-55875535349f" />
+
+## Enter the selected number for the guess error page
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/e6c0336a-e876-4d1b-809f-cb4cd18be964" />
+
+## Score based on the Guess
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/0076d456-1715-4783-ac13-53aa563a4e8d" />
+
+<img width="1919" height="1006" alt="image" src="https://github.com/user-attachments/assets/0ac042ea-4474-484e-85dc-798abcc462a9" />
+
+## Show Rules
+
+<img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/e59b1217-8374-4585-a56e-ebec17228424" />
+
+## Reset Score
+
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/9def50d9-b246-4cb5-aae5-e00de5725204" />
